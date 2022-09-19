@@ -35,5 +35,6 @@ Built with:
 
 Features:
 ------------------------------------------------------------------------------------------
-* Ability to create Customers, Orders, Addresses, Products, and OrderDetails Entities
-* All Entities allow the full CRUD steps that utilizies Flask as the backend and MySQL queries to add entries to the database
+* Ability to create Customers, Orders, Addresses, Products, and OrderDetails Entities.
+* All Entities allow the full CRUD steps that utilizies Flask as the backend and MySQL queries to add entries to the database.
+* Live web application deployed on Heroku.
