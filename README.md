@@ -27,5 +27,6 @@ Built with:
 
 Features:
 ------------------------------------------------------------------------------------------
-* Draw your own pixel art in black or rainbow color
-* Increase the grid size so you can get more detailed when drawing
+*
+*
+*
